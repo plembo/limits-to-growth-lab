@@ -1,5 +1,5 @@
 # Limits to Growth Lab
-My own sandbox for exploring the economic growth models reported in Donella H. Meadows. _The Limits to Growth_. Potomac, 1972.
+My own sandbox for exploring the economic growth models reported in Donella H. Meadows. _The Limits to Growth_. Universe Books, 1972.
 
 The latest implementation, in python, is found here:
 
